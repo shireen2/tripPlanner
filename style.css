@@ -1,0 +1,27 @@
+p{
+	font-family: 'Open Sans', sans-serif;
+}
+
+.container h1{
+	font-family: 'Oswald', sans-serif;
+}
+
+#user{
+	width: 300px;
+	left: 200px;
+}
+
+.col-lg-4{
+	width:100%;
+}
+
+.form{
+	width: 325px;
+	margin: 0 auto;
+}
+
+.form-group{
+	position: fixed;
+	right: 760px;
+	top: 500px;
+}
